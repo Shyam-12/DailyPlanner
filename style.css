@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(./Images/3.png);
+}
+
+nav {
+  display: flex;
+  justify-content: flex-end;
+}
+.sign-in {
+  padding: 10px 20px;
+  margin-top: 30px;
+  margin-right: 30px;
+}
+.sign-up {
+  padding: 10px 20px;
+  margin-right: 5px;
+  margin-top: 30px;
+}
+h1 {
+  position: absolute;
+  width: 398px;
+  height: 100px;
+  left: 697px;
+  top: 94px;
+
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 42px;
+  line-height: 100px;
+  text-decoration-line: underline;
+
+  color: #810666;
+}
+
+.para1 {
+  position: absolute;
+  width: 362px;
+  height: 202px;
+  left: 234px;
+  top: 514px;
+
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 67px;
+}
+
+.para2 {
+  position: absolute;
+  width: 614px;
+  height: 134px;
+  left: 1080px;
+  top: 301px;
+
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 2rem;
+  line-height: 67px;
+
+  color: #000000;
+}
+
+.plan-day {
+  position: absolute;
+  width: 250px;
+  height: 66px;
+  left: 1401px;
+  top: 490px;
+  font-size: 1.1rem;
+
+  background: rgba(48, 85, 56, 0.35);
+}
+.plan-goal {
+  position: absolute;
+  width: 250px;
+  height: 66px;
+  left: 1400.5px;
+  top: 580px;
+  font-size: 1.1rem;
+
+  background: rgba(59, 31, 228, 0.38);
+}
+.plan-week {
+  position: absolute;
+  width: 250px;
+  height: 66px;
+  left: 1400px;
+  top: 670px;
+  font-size: 1.1rem;
+
+  background: rgba(131, 4, 103, 0.35);
+}
+
+#plan-day {
+  position: absolute;
+  width: 300px;
+  height: 50px;
+  left: 1043px;
+  top: 490px;
+
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.4rem;
+  line-height: 50px;
+
+  color: #000000;
+}
+
+#plan-goal {
+  position: absolute;
+  width: 262px;
+  height: 50px;
+  left: 1064px;
+  top: 580px;
+
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.4rem;
+  line-height: 50px;
+
+  color: #000000;
+}
+#plan-week {
+  position: absolute;
+  width: 303px;
+  height: 50px;
+  left: 1040px;
+  top: 670px;
+
+  font-family: Mohave;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.4rem;
+  line-height: 50px;
+
+  color: #000000;
+}
